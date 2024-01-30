@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: #efeee7;
+    font-family: 'Times New Roman', Times, serif;
+    color: #333333;
+}
+#bio{
+    background-color: #333333;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#main-bio{
+    float: left;
+    margin-left: 20px;
+}
+#bio-image{
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+#msg{
+    margin-left: 220px 
+}
+#contact-info{
+    float: right;
+    margin-right: 253px;;
+}
